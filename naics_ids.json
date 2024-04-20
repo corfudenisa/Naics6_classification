@@ -1,0 +1,907 @@
+{
+    "32": {
+      "description": "Manufacturing",
+      "subcategories": {
+        "3211": {
+          "description": "Sawmills and Wood Preservation",
+          "subcategories": {
+            "321113": {
+              "description": "Sawmills"
+            },
+            "321114": {
+              "description": "Wood Preservation"
+            }
+          }
+        },
+        "3212": {
+          "description": "Veneer, Plywood, and Engineered Wood Product Manufacturing",
+          "subcategories": {
+            "321211": {
+              "description": "Hardwood Veneer and Plywood Manufacturing"
+            },
+            "321212": {
+              "description": "Softwood Veneer and Plywood Manufacturing"
+            },
+            "321215": {
+              "description": "Engineered Wood Member Manufacturing"
+            },
+            "321219": {
+              "description": "Reconstituted Wood Product Manufacturing"
+            }
+          }
+        },
+        "3219": {
+          "description": "Other Wood Product Manufacturing",
+          "subcategories": {
+            "321911": {
+              "description": "Wood Window and Door Manufacturing"
+            },
+            "321912": {
+              "description": "Cut Stock, Resawing Lumber, and Planing"
+            },
+            "321918": {
+              "description": "Other Millwork (including Flooring)"
+            },
+            "321920": {
+              "description": "Wood Container and Pallet Manufacturing"
+            },
+            "321991": {
+              "description": "Manufactured Home (Mobile Home) Manufacturing"
+            },
+            "321992": {
+              "description": "Prefabricated Wood Building Manufacturing"
+            },
+            "321999": {
+              "description": "All Other Miscellaneous Wood Product Manufacturing"
+            }
+          }
+        }
+      }
+    },
+    "3221": {
+      "description": "Pulp, Paper, and Paperboard Mills",
+      "subcategories": {
+        "322110": {
+          "description": "Pulp Mills"
+        },
+        "322120": {
+          "description": "Paper Mills"
+        },
+        "322130": {
+          "description": "Paperboard Mills"
+        }
+      }
+    },
+    "3222": {
+      "description": "Converted Paper Product Manufacturing",
+      "subcategories": {
+        "322211": {
+          "description": "Corrugated and Solid Fiber Box Manufacturing"
+        },
+        "322212": {
+          "description": "Folding Paperboard Box Manufacturing"
+        },
+        "322219": {
+          "description": "Other Paperboard Container Manufacturing"
+        },
+        "322220": {
+          "description": "Paper Bag and Coated and Treated Paper Manufacturing"
+        },
+        "322230": {
+          "description": "Stationery Product Manufacturing"
+        },
+        "322291": {
+          "description": "Sanitary Paper Product Manufacturing"
+        },
+        "322299": {
+          "description": "All Other Converted Paper Product Manufacturing"
+        }
+      }
+    },
+    "3231": {
+      "description": "Printing and Related Support Activities",
+      "subcategories": {
+        "323111": {
+          "description": "Commercial Printing (except Screen and Books)"
+        },
+        "323113": {
+          "description": "Commercial Screen Printing"
+        },
+        "323117": {
+          "description": "Books Printing"
+        },
+        "323120": {
+          "description": "Support Activities for Printing"
+        }
+      }
+    },
+    "3241": {
+      "description": "Petroleum and Coal Products Manufacturing",
+      "subcategories": {
+        "324110": {
+          "description": "Petroleum Refineries"
+        },
+        "324121": {
+          "description": "Asphalt Paving Mixture and Block Manufacturing"
+        },
+        "324122": {
+          "description": "Asphalt Shingle and Coating Materials Manufacturing"
+        },
+        "324191": {
+          "description": "Petroleum Lubricating Oil and Grease Manufacturing"
+        },
+        "324199": {
+          "description": "All Other Petroleum and Coal Products Manufacturing"
+        }
+      }
+    },
+    "3251": {
+      "description": "Basic Chemical Manufacturing",
+      "subcategories": {
+        "325110": {
+          "description": "Petrochemical Manufacturing"
+        },
+        "325120": {
+          "description": "Industrial Gas Manufacturing"
+        },
+        "325130": {
+          "description": "Synthetic Dye and Pigment Manufacturing"
+        },
+        "325180": {
+          "description": "Other Basic Inorganic Chemical Manufacturing"
+        },
+        "325193": {
+          "description": "Ethyl Alcohol Manufacturing"
+        },
+        "325194": {
+          "description": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"
+        },
+        "325199": {
+          "description": "All Other Basic Organic Chemical Manufacturing"
+        }
+      }
+    },
+    "3252": {
+      "description": "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "subcategories": {
+        "325211": {
+          "description": "Plastics Material and Resin Manufacturing"
+        },
+        "325212": {
+          "description": "Synthetic Rubber Manufacturing"
+        },
+        "325220": {
+          "description": "Artificial and Synthetic Fibers and Filaments Manufacturing"
+        }
+      }
+    },
+    "3253": {
+      "description": "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",
+      "subcategories": {
+        "325311": {
+          "description": "Nitrogenous Fertilizer Manufacturing"
+        },
+        "325312": {
+          "description": "Phosphatic Fertilizer Manufacturing"
+        },
+        "325314": {
+          "description": "Fertilizer (Mixing Only) Manufacturing"
+        },
+        "325315": {
+          "description": "Compost Manufacturing"
+        },
+        "325320": {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing"
+        }
+      }
+    },
+    "3254": {
+      "description": "Pharmaceutical and Medicine Manufacturing",
+      "subcategories": {
+        "325411": {
+          "description": "Medicinal and Botanical Manufacturing"
+        },
+        "325412": {
+          "description": "Pharmaceutical Preparation Manufacturing"
+        },
+        "325413": {
+          "description": "In-Vitro Diagnostic Substance Manufacturing"
+        },
+        "325414": {
+          "description": "Biological Product (except Diagnostic) Manufacturing"
+        }
+      }
+    },
+    "3255": {
+      "description": "Paint, Coating, and Adhesive Manufacturing",
+      "subcategories": {
+        "325510": {
+          "description": "Paint and Coating Manufacturing"
+        },
+        "325520": {
+          "description": "Adhesive Manufacturing"
+        }
+      }
+    },
+    "3256": {
+      "description": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing",
+      "subcategories": {
+        "325611": {
+          "description": "Soap and Other Detergent Manufacturing"
+        },
+        "325612": {
+          "description": "Polish and Other Sanitation Good Manufacturing"
+        },
+        "325613": {
+          "description": "Surface Active Agent Manufacturing"
+        },
+        "325620": {
+          "description": "Toilet Preparation Manufacturing"
+        }
+      }
+    },
+    "3259": {
+      "description": "Other Chemical Product and Preparation Manufacturing",
+      "subcategories": {
+        "325910": {
+          "description": "Printing Ink Manufacturing"
+        },
+        "325920": {
+          "description": "Explosives Manufacturing"
+        },
+        "325991": {
+          "description": "Custom Compounding of Purchased Resins"
+        },
+        "325992": {
+          "description": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing"
+        },
+        "325998": {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+        }
+      }
+    },
+    "3261": {
+      "description": "Plastics Product Manufacturing",
+      "subcategories": {
+        "326111": {
+          "description": "Plastics Bag and Pouch Manufacturing"
+        },
+        "326112": {
+          "description": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing"
+        },
+        "326113": {
+          "description": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+        },
+        "326121": {
+          "description": "Unlaminated Plastics Profile Shape Manufacturing"
+        },
+        "326122": {
+          "description": "Plastics Pipe and Pipe Fitting Manufacturing"
+        },
+        "326130": {
+          "description": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+        },
+        "326140": {
+          "description": "Polystyrene Foam Product Manufacturing"
+        },
+        "326150": {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
+        },
+        "326160": {
+          "description": "Plastics Bottle Manufacturing"
+        },
+        "326191": {
+          "description": "Plastics Plumbing Fixture Manufacturing"
+        },
+        "326199": {
+          "description": "All Other Plastics Product Manufacturing"
+        }
+      }
+    },
+    "3262": {
+      "description": "Rubber Product Manufacturing",
+      "subcategories": {
+        "326211": {
+          "description": "Tire Manufacturing (except Retreading)"
+        },
+        "326212": {
+          "description": "Tire Retreading"
+        },
+        "326220": {
+          "description": "Rubber and Plastics Hoses and Belting Manufacturing"
+        },
+        "326291": {
+          "description": "Rubber Product Manufacturing for Mechanical Use"
+        },
+        "326299": {
+          "description": "All Other Rubber Product Manufacturing"
+        }
+      }
+    },
+    "3271": {
+      "description": "Clay Product and Refractory Manufacturing",
+      "subcategories": {
+        "327110": {
+          "description": "Pottery, Ceramics, and Plumbing Fixture Manufacturing"
+        },
+        "327120": {
+          "description": "Clay Building Material and Refractories Manufacturing"
+        }
+      }
+    },
+    "3272": {
+      "description": "Glass and Glass Product Manufacturing",
+      "subcategories": {
+        "327211": {
+          "description": "Flat Glass Manufacturing"
+        },
+        "327212": {
+          "description": "Other Pressed and Blown Glass and Glassware Manufacturing"
+        },
+        "327213": {
+          "description": "Glass Container Manufacturing"
+        },
+        "327215": {
+          "description": "Glass Product Manufacturing Made of Purchased Glass"
+        }
+      }
+    },
+    "3273": {
+      "description": "Cement and Concrete Product Manufacturing",
+      "subcategories": {
+        "327310": {
+          "description": "Cement Manufacturing"
+        },
+        "327320": {
+          "description": "Ready-Mix Concrete Manufacturing"
+        },
+        "327331": {
+          "description": "Concrete Block and Brick Manufacturing"
+        },
+        "327332": {
+          "description": "Concrete Pipe Manufacturing"
+        },
+        "327390": {
+          "description": "Other Concrete Product Manufacturing"
+        }
+      }
+    },
+    "3274": {
+      "description": "Lime and Gypsum Product Manufacturing",
+      "subcategories": {
+        "327410": {
+          "description": "Lime Manufacturing"
+        },
+        "327420": {
+          "description": "Gypsum Product Manufacturing"
+        }
+      }
+    },
+    "3279": {
+      "description": "Other Nonmetallic Mineral Product Manufacturing",
+      "subcategories": {
+        "327910": {
+          "description": "Abrasive Product Manufacturing"
+        },
+        "327991": {
+          "description": "Cut Stone and Stone Product Manufacturing"
+        },
+        "327992": {
+          "description": "Ground or Treated Mineral and Earth Manufacturing"
+        },
+        "327993": {
+          "description": "Mineral Wool Manufacturing"
+        },
+        "327999": {
+          "description": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"
+        }
+      }
+    },
+    "42": {
+      "description": "Wholesale Trade",
+      "subcategories": {
+        "4231": {
+          "description": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",
+          "subcategories": {
+            "423110": {
+              "description": "Automobile and Other Motor Vehicle Merchant Wholesalers"
+            },
+            "423120": {
+              "description": "Motor Vehicle Supplies and New Parts Merchant Wholesalers"
+            },
+            "423130": {
+              "description": "Tire and Tube Merchant Wholesalers"
+            },
+            "423140": {
+              "description": "Motor Vehicle Parts (Used) Merchant Wholesalers"
+            }
+          }
+        },
+        "4232": {
+          "description": "Furniture and Home Furnishing Merchant Wholesalers",
+          "subcategories": {
+            "423210": {
+              "description": "Furniture Merchant Wholesalers"
+            },
+            "423220": {
+              "description": "Home Furnishing Merchant Wholesalers"
+            }
+          }
+        },
+        "4233": {
+          "description": "Lumber and Other Construction Materials Merchant Wholesalers",
+          "subcategories": {
+            "423310": {
+              "description": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"
+            },
+            "423320": {
+              "description": "Brick, Stone, and Related Construction Material Merchant Wholesalers"
+            },
+            "423330": {
+              "description": "Roofing, Siding, and Insulation Material Merchant Wholesalers"
+            },
+            "423390": {
+              "description": "Other Construction Material Merchant Wholesalers"
+            }
+          }
+        },
+        "4234": {
+          "description": "Professional and Commercial Equipment and Supplies Merchant Wholesalers",
+          "subcategories": {
+            "423410": {
+              "description": "Photographic Equipment and Supplies Merchant Wholesalers"
+            },
+            "423420": {
+              "description": "Office Equipment Merchant Wholesalers"
+            },
+            "423430": {
+              "description": "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers"
+            },
+            "423440": {
+              "description": "Other Commercial Equipment Merchant Wholesalers"
+            },
+            "423450": {
+              "description": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"
+            },
+            "423460": {
+              "description": "Ophthalmic Goods Merchant Wholesalers"
+            },
+            "423490": {
+              "description": "Other Professional Equipment and Supplies Merchant Wholesalers"
+            }
+          }
+        },
+        "4235": {
+          "description": "Metal and Mineral (except Petroleum) Merchant Wholesalers",
+          "subcategories": {
+            "423510": {
+              "description": "Metal Service Centers and Other Metal Merchant Wholesalers"
+            },
+            "423520": {
+              "description": "Coal and Other Mineral and Ore Merchant Wholesalers"
+            }
+          }
+        },
+        "4236": {
+          "description": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+          "subcategories": {
+            "423610": {
+              "description": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"
+            },
+            "423620": {
+              "description": "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"
+            },
+            "423690": {
+              "description": "Other Electronic Parts and Equipment Merchant Wholesalers"
+            }
+          }
+        },
+        "4237": {
+          "description": "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",
+          "subcategories": {
+            "423710": {
+              "description": "Hardware Merchant Wholesalers"
+            },
+            "423720": {
+              "description": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"
+            },
+            "423730": {
+              "description": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"
+            },
+            "423740": {
+              "description": "Refrigeration Equipment and Supplies Merchant Wholesalers"
+            }
+          }
+        },
+        "4238": {
+          "description": "Machinery, Equipment, and Supplies Merchant Wholesalers",
+          "subcategories": {
+            "423810": {
+              "description": "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers"
+            },
+            "423820": {
+              "description": "Farm and Garden Machinery and Equipment Merchant Wholesalers"
+            },
+            "423830": {
+              "description": "Industrial Machinery and Equipment Merchant Wholesalers"
+            },
+            "423840": {
+              "description": "Industrial Supplies Merchant Wholesalers"
+            },
+            "423850": {
+              "description": "Service Establishment Equipment and Supplies Merchant Wholesalers"
+            },
+            "423860": {
+              "description": "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers"
+            }
+          }
+        },
+        "4239": {
+          "description": "Miscellaneous Durable Goods Merchant Wholesalers",
+          "subcategories": {
+            "423910": {
+              "description": "Sporting and Recreational Goods and Supplies Merchant Wholesalers"
+            },
+            "423920": {
+              "description": "Toy and Hobby Goods and Supplies Merchant Wholesalers"
+            },
+            "423930": {
+              "description": "Recyclable Material Merchant Wholesalers"
+            },
+            "423940": {
+              "description": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"
+            },
+            "423990": {
+              "description": "Other Miscellaneous Durable Goods Merchant Wholesalers"
+            }
+          }
+        },
+        "4241": {
+          "description": "Paper and Paper Product Merchant Wholesalers",
+          "subcategories": {
+            "424110": {
+              "description": "Printing and Writing Paper Merchant Wholesalers"
+            },
+            "424120": {
+              "description": "Stationery and Office Supplies Merchant Wholesalers"
+            },
+            "424130": {
+              "description": "Industrial and Personal Service Paper Merchant Wholesalers"
+            }
+          }
+        },
+        "4242": {
+          "description": "Drugs and Druggists' Sundries Merchant Wholesalers",
+          "subcategories": {
+            "424210": {
+              "description": "Drugs and Druggists' Sundries Merchant Wholesalers"
+            }
+          }
+        },
+        "4243": {
+          "description": "Apparel, Piece Goods, and Notions Merchant Wholesalers",
+          "subcategories": {
+            "424310": {
+              "description": "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers"
+            },
+            "424340": {
+              "description": "Footwear Merchant Wholesalers"
+            },
+            "424350": {
+              "description": "Clothing and Clothing Accessories Merchant Wholesalers"
+            }
+          }
+        },
+        "4244": {
+          "description": "Grocery and Related Product Merchant Wholesalers",
+          "subcategories": {
+            "424410": {
+              "description": "General Line Grocery Merchant Wholesalers"
+            },
+            "424420": {
+              "description": "Packaged Frozen Food Merchant Wholesalers"
+            },
+            "424430": {
+              "description": "Dairy Product (except Dried or Canned) Merchant Wholesalers"
+            },
+            "424440": {
+              "description": "Poultry and Poultry Product Merchant Wholesalers"
+            },
+            "424450": {
+              "description": "Confectionery Merchant Wholesalers"
+            },
+            "424460": {
+              "description": "Fish and Seafood Merchant Wholesalers"
+            },
+            "424470": {
+              "description": "Meat and Meat Product Merchant Wholesalers"
+            },
+            "424480": {
+              "description": "Fresh Fruit and Vegetable Merchant Wholesalers"
+            },
+            "424490": {
+              "description": "Other Grocery and Related Products Merchant Wholesalers"
+            }
+          }
+        },
+        "4245": {
+          "description": "Farm Product Raw Material Merchant Wholesalers",
+          "subcategories": {
+            "424510": {
+              "description": "Grain and Field Bean Merchant Wholesalers"
+            },
+            "424520": {
+              "description": "Livestock Merchant Wholesalers"
+            },
+            "424590": {
+              "description": "Other Farm Product Raw Material Merchant Wholesalers"
+            }
+          }
+        },
+        "4246": {
+          "description": "Chemical and Allied Products Merchant Wholesalers",
+          "subcategories": {
+            "424610": {
+              "description": "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers"
+            },
+            "424690": {
+              "description": "Other Chemical and Allied Products Merchant Wholesalers"
+            }
+          }
+        },
+        "4247": {
+          "description": "Petroleum and Petroleum Products Merchant Wholesalers",
+          "subcategories": {
+            "424710": {
+              "description": "Petroleum Bulk Stations and Terminals"
+            },
+            "424720": {
+              "description": "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)"
+            },
+            "424730": {
+              "description": "Other Basic Organic Chemical Merchant Wholesalers"
+            }
+          }
+        },
+        "4248": {
+          "description": "Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",
+          "subcategories": {
+            "424810": {
+              "description": "Beer and Ale Merchant Wholesalers"
+            },
+            "424820": {
+              "description": "Wine and Distilled Alcoholic Beverage Merchant Wholesalers"
+            }
+          }
+        },
+        "4249": {
+          "description": "Miscellaneous Nondurable Goods Merchant Wholesalers",
+          "subcategories": {
+            "424910": {
+              "description": "Farm Supplies Merchant Wholesalers"
+            },
+            "424920": {
+              "description": "Book, Periodical, and Newspaper Merchant Wholesalers"
+            },
+            "424930": {
+              "description": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"
+            },
+            "424940": {
+              "description": "Tobacco and Tobacco Product Merchant Wholesalers"
+            },
+            "424950": {
+              "description": "Paint, Varnish, and Supplies Merchant Wholesalers"
+            },
+            "424990": {
+              "description": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"
+            }
+          }
+        },
+        "4251": {
+          "subcategories": {
+            "425120": {
+              "description": "Wholesale Trade Agents and Brokers"
+            }
+          }
+        }
+      }
+    },
+    "54": {
+      "description": "Professional, Scientific, and Technical Services",
+      "subcategories": {
+        "5411": {
+          "description": "Legal Services",
+          "subcategories": {
+            "541110": {
+              "description": "Offices of Lawyers"
+            },
+            "541120": {
+              "description": "Offices of Notaries"
+            },
+            "541191": {
+              "description": "Title Abstract and Settlement Offices"
+            },
+            "541199": {
+              "description": "All Other Legal Service"
+            }
+          }
+        },
+        "5412": {
+          "description": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "subcategories": {
+            "541211": {
+              "description": "Offices of Certified Public Accountants"
+            },
+            "541213": {
+              "description": "Tax Preparation Services"
+            },
+            "541214": {
+              "description": "Payroll Services"
+            },
+            "541219": {
+              "description": "Other Accounting Services"
+            }
+          }
+        },
+        "5413": {
+          "description": "Architectural, Engineering, and Related Services",
+          "subcategories": {
+            "541310": {
+              "description": "Architectural Services"
+            },
+            "541320": {
+              "description": "Landscape Architectural Services"
+            },
+            "541330": {
+              "description": "Engineering Services"
+            },
+            "541340": {
+              "description": "Drafting Services"
+            },
+            "541350": {
+              "description": "Building Inspection Services"
+            },
+            "541360": {
+              "description": "Geophysical Surveying and Mapping Services"
+            },
+            "541370": {
+              "description": "Surveying and Mapping (except Geophysical) Service"
+            },
+            "541380": {
+              "description": "Testing Laboratories and Services"
+            }
+          }
+        },
+        "5414": {
+          "description": "Specialized Design Services",
+          "subcategories": {
+            "541410": {
+              "description": "Interior Design Services"
+            },
+            "541420": {
+              "description": "Industrial Design Services"
+            },
+            "541430": {
+              "description": "Graphic Design Services"
+            },
+            "541490": {
+              "description": "Other Specialized Design Services"
+            }
+          }
+        },
+        "5415": {
+          "description": "Computer Systems Design and Related Services",
+          "subcategories": {
+            "541511": {
+              "description": "Custom Computer Programming Services"
+            },
+            "541512": {
+              "description": "Computer Systems Design Services"
+            },
+            "541513": {
+              "description": "Computer Facilities Management Services"
+            },
+            "541519": {
+              "description": "Other Computer Related Services"
+            }
+          }
+        },
+        "5416": {
+          "description": "Management, Scientific, and Technical Consulting Services",
+          "subcategories": {
+            "541611": {
+              "description": "Administrative Management and General Management Consulting Services"
+            },
+            "541612": {
+              "description": "Human Resources Consulting Services"
+            },
+            "541613": {
+              "description": "Marketing Consulting Services"
+            },
+            "541614": {
+              "description": "Process, Physical Distribution, and Logistics Consulting Services"
+            },
+            "541618": {
+              "description": "Other Management Consulting Services"
+            },
+            "541620": {
+              "description": "Environmental Consulting Services"
+            },
+            "541690": {
+              "description": "Other Scientific and Technical Consulting Services"
+            }
+          }
+        },
+        "5417": {
+          "description": "Scientific Research and Development Services",
+          "subcategories": {
+            "541713": {
+              "description": "Research and Development in Nanotechnology"
+            },
+            "541714": {
+              "description": "Research and Development in Biotechnology (except Nanobiotechnology)"
+            },
+            "541715": {
+              "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+            },
+            "541720": {
+              "description": "Research and Development in the Social Sciences and Humanities"
+            }
+          }
+        },
+        "5418": {
+          "description": "Advertising, Public Relations, and Related Services",
+          "subcategories": {
+            "541810": {
+              "description": "Advertising Agencies"
+            },
+            "541820": {
+              "description": "Public Relations Agencies"
+            },
+            "541830": {
+              "description": "Media Buying Agencies"
+            },
+            "541840": {
+              "description": "Media Representatives"
+            },
+            "541850": {
+              "description": "Indoor and Outdoor Display Advertising"
+            },
+            "541860": {
+              "description": "Direct Mail Advertising"
+            },
+            "541870": {
+              "description": "Advertising Material Distribution Services"
+            },
+            "541890": {
+              "description": "Other Services Related to Advertising"
+            }
+          }
+        },
+        "5419": {
+          "description": "Other Professional, Scientific, and Technical Services",
+          "subcategories": {
+            "541910": {
+              "description": "Marketing Research and Public Opinion Polling"
+            },
+            "541921": {
+              "description": "Photography Studios, Portrait"
+            },
+            "541922": {
+              "description": "Commercial Photography"
+            },
+            "541930": {
+              "description": "Translation and Interpretation Services"
+            },
+            "541940": {
+              "description": "Veterinary Services"
+            },
+            "541990": {
+              "description": "All Other Professional, Scientific, and Technical Services"
+            }
+          }
+        }
+      }
+    }
+  }
+  
