@@ -1,3 +1,6 @@
+import pandas as pd
+
 def magic_main(CompanyImpData):
-    
-    pass
+    Id=CompanyImpData["Company_ID"]
+    Name=CompanyImpData["Company_Name"]
+    print(Id,Name)
