@@ -1,6 +1,8 @@
+import nltk
+nltk.download('stopwords')
 import re
 import json
-
+from functions import preprocess_text 
 # Read the text file and split it into sections based on empty lines
 with open("../datanaics4.txt", "r") as file:
     sections = file.read().split("\n\n")
@@ -26,8 +28,16 @@ for section in sections:
     data = extract_data(section)
     if data:
         code, info = data
+        info['Name'] = preprocess_text(info['Name'])
+        info['Name'] = (info['Name'].split(":"))[0]
+        listXX =[]
+        for XX in info['Description']:
+            listXX.append(preprocess_text(XX))
+        info['Description']=listXX
+        print(code,info,end="\n\n\n")
+        #prcdata=preprocess_text(info)
         data_dict[code] = info
 
 # Write the dictionary to a JSON file
-with open("outputSMT.json", "w") as json_file:
+with open("naics4.json", "w") as json_file:
     json.dump(data_dict, json_file, indent=4)

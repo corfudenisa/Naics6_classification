@@ -17,6 +17,8 @@ for index,rows in df.iterrows():
     valueC2 = fnn(CompanyImpData["Business_Model"])
     id_list.append(Id)
     name_list.append(Name)
+    valueC4 = naicstr4(valueC2)
+    valueC6 = naicstr6(valueC4)
     Naics_list.append(valueC2)
     
 output_df = pd.DataFrame({"Id": id_list, "Name": name_list,"Naics": Naics_list})

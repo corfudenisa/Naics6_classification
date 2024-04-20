@@ -1,497 +1,497 @@
 {
     "3212": {
-        "Name": "Veneer, Plywood, and Engineered Wood Product Manufacturing:**",
+        "Name": "veneer , plywood , and engin wood product manufactur ",
         "Description": [
-            "Veneer production",
-            "Plywood manufacturing",
-            "Particleboard production",
-            "Oriented strand board (OSB) manufacturing",
-            "Fiberboard manufacturing",
-            "Engineered wood products manufacturing"
+            "veneer product",
+            "plywood manufactur",
+            "particleboard product",
+            "orient strand board ( osb ) manufactur",
+            "fiberboard manufactur",
+            "engin wood product manufactur"
         ]
     },
     "3219": {
-        "Name": "Other Wood Product Manufacturing:**",
+        "Name": "other wood product manufactur ",
         "Description": [
-            "Wood pallets and skids manufacturing",
-            "Wooden containers manufacturing",
-            "Wood kitchenware manufacturing",
-            "Wood cabinets and countertops manufacturing",
-            "Wooden furniture manufacturing",
-            "Wood trusses manufacturing",
-            "Wooden reels and spools manufacturing"
+            "wood pallet and skid manufactur",
+            "wooden contain manufactur",
+            "wood kitchenwar manufactur",
+            "wood cabinet and countertop manufactur",
+            "wooden furnitur manufactur",
+            "wood truss manufactur",
+            "wooden reel and spool manufactur"
         ]
     },
     "3221": {
-        "Name": "Pulp, Paper, and Paperboard Mills:**",
+        "Name": "pulp , paper , and paperboard mill ",
         "Description": [
-            "Pulp production",
-            "Paper manufacturing",
-            "Paperboard manufacturing",
-            "Paper bag manufacturing",
-            "Paper box manufacturing",
-            "Paper tube manufacturing",
-            "Paper napkin manufacturing"
+            "pulp product",
+            "paper manufactur",
+            "paperboard manufactur",
+            "paper bag manufactur",
+            "paper box manufactur",
+            "paper tube manufactur",
+            "paper napkin manufactur"
         ]
     },
     "3222": {
-        "Name": "Converted Paper Product Manufacturing:**",
+        "Name": "convert paper product manufactur ",
         "Description": [
-            "Paper bag converting",
-            "Paper box converting",
-            "Stationery product manufacturing",
-            "Envelope manufacturing",
-            "Paper bag and coated and treated paper manufacturing",
-            "Paperboard container manufacturing"
+            "paper bag convert",
+            "paper box convert",
+            "stationeri product manufactur",
+            "envelop manufactur",
+            "paper bag and coat and treat paper manufactur",
+            "paperboard contain manufactur"
         ]
     },
     "3231": {
-        "Name": "Printing and Related Support Activities:**",
+        "Name": "print and relat support activ ",
         "Description": [
-            "Commercial printing",
-            "Digital printing",
-            "Screen printing",
-            "Prepress services",
-            "Bookbinding",
-            "Typesetting",
-            "Printing support services"
+            "commerci print",
+            "digit print",
+            "screen print",
+            "prepress servic",
+            "bookbind",
+            "typeset",
+            "print support servic"
         ]
     },
     "3241": {
-        "Name": "Petroleum and Coal Products Manufacturing:**",
+        "Name": "petroleum and coal product manufactur ",
         "Description": [
-            "Petroleum refining",
-            "Asphalt paving mixture manufacturing",
-            "Asphalt shingle and coating materials manufacturing",
-            "Petroleum lubricating oil and grease manufacturing",
-            "Petroleum wax manufacturing",
-            "Coal tar distillation"
+            "petroleum refin",
+            "asphalt pave mixtur manufactur",
+            "asphalt shingl and coat materi manufactur",
+            "petroleum lubric oil and greas manufactur",
+            "petroleum wax manufactur",
+            "coal tar distil"
         ]
     },
     "3251": {
-        "Name": "Basic Chemical Manufacturing:**",
+        "Name": "basic chemic manufactur ",
         "Description": [
-            "Petrochemical manufacturing",
-            "Industrial gas manufacturing",
-            "Synthetic dye and pigment manufacturing",
-            "Alkalies and chlorine manufacturing",
-            "Synthetic rubber manufacturing",
-            "Fertilizer manufacturing"
+            "petrochem manufactur",
+            "industri ga manufactur",
+            "synthet dye and pigment manufactur",
+            "alkali and chlorin manufactur",
+            "synthet rubber manufactur",
+            "fertil manufactur"
         ]
     },
     "3252": {
-        "Name": "Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing:**",
+        "Name": "resin , synthet rubber , and artifici synthet fiber and filament manufactur ",
         "Description": [
-            "Plastic material manufacturing",
-            "Synthetic rubber manufacturing",
-            "Artificial fibers and filaments manufacturing",
-            "Cellulosic plastics manufacturing",
-            "Melamine resin manufacturing",
-            "Urea-formaldehyde resin manufacturing"
+            "plastic materi manufactur",
+            "synthet rubber manufactur",
+            "artifici fiber and filament manufactur",
+            "cellulos plastic manufactur",
+            "melamin resin manufactur",
+            "urea-formaldehyd resin manufactur"
         ]
     },
     "3253": {
-        "Name": "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing:**",
+        "Name": "pesticid , fertil , and other agricultur chemic manufactur ",
         "Description": [
-            "Pesticide manufacturing",
-            "Insecticide manufacturing",
-            "Herbicide manufacturing",
-            "Fertilizer manufacturing",
-            "Soil conditioner manufacturing",
-            "Agricultural chemical adjuvant manufacturing"
+            "pesticid manufactur",
+            "insecticid manufactur",
+            "herbicid manufactur",
+            "fertil manufactur",
+            "soil condition manufactur",
+            "agricultur chemic adjuv manufactur"
         ]
     },
     "3254": {
-        "Name": "Pharmaceutical and Medicine Manufacturing:**",
+        "Name": "pharmaceut and medicin manufactur ",
         "Description": [
-            "Basic pharmaceutical manufacturing",
-            "Medicinal and botanical manufacturing",
-            "Pharmaceutical preparation manufacturing",
-            "Vaccine manufacturing",
-            "Diagnostic substance manufacturing",
-            "Biopharmaceutical manufacturing"
+            "basic pharmaceut manufactur",
+            "medicin and botan manufactur",
+            "pharmaceut prepar manufactur",
+            "vaccin manufactur",
+            "diagnost substanc manufactur",
+            "biopharmaceut manufactur"
         ]
     },
     "3255": {
-        "Name": "Paint, Coating, and Adhesive Manufacturing:**",
+        "Name": "paint , coat , and adhes manufactur ",
         "Description": [
-            "Paint manufacturing",
-            "Varnish manufacturing",
-            "Enamel manufacturing",
-            "Lacquer manufacturing",
-            "Stain manufacturing",
-            "Adhesive manufacturing"
+            "paint manufactur",
+            "varnish manufactur",
+            "enamel manufactur",
+            "lacquer manufactur",
+            "stain manufactur",
+            "adhes manufactur"
         ]
     },
     "3256": {
-        "Name": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing:**",
+        "Name": "soap , clean compound , and toilet prepar manufactur ",
         "Description": [
-            "Soap manufacturing",
-            "Detergent manufacturing",
-            "Cleaning compound manufacturing",
-            "Polishing preparations manufacturing",
-            "Perfume manufacturing",
-            "Cosmetics manufacturing"
+            "soap manufactur",
+            "deterg manufactur",
+            "clean compound manufactur",
+            "polish prepar manufactur",
+            "perfum manufactur",
+            "cosmet manufactur"
         ]
     },
     "3259": {
-        "Name": "Other Chemical Product and Preparation Manufacturing:**",
+        "Name": "other chemic product and prepar manufactur ",
         "Description": [
-            "Explosives manufacturing",
-            "Photographic film and chemical manufacturing",
-            "Chemical preparations manufacturing",
-            "Gelatin manufacturing",
-            "Synthetic organic coloring matter manufacturing",
-            "Matches manufacturing"
+            "explos manufactur",
+            "photograph film and chemic manufactur",
+            "chemic prepar manufactur",
+            "gelatin manufactur",
+            "synthet organ color matter manufactur",
+            "match manufactur"
         ]
     },
     "3261": {
-        "Name": "Plastics Product Manufacturing:**",
+        "Name": "plastic product manufactur ",
         "Description": [
-            "Plastic bottle manufacturing",
-            "Plastic pipe manufacturing",
-            "Plastic packaging materials manufacturing",
-            "Plastic plumbing fixture manufacturing",
-            "Plastic houseware manufacturing",
-            "Plastic furniture manufacturing"
+            "plastic bottl manufactur",
+            "plastic pipe manufactur",
+            "plastic packag materi manufactur",
+            "plastic plumb fixtur manufactur",
+            "plastic housewar manufactur",
+            "plastic furnitur manufactur"
         ]
     },
     "3262": {
-        "Name": "Rubber Product Manufacturing:**",
+        "Name": "rubber product manufactur ",
         "Description": [
-            "Tire manufacturing",
-            "Rubber hose and belting manufacturing",
-            "Rubber gasket and packing manufacturing",
-            "Rubber seal manufacturing",
-            "Rubber floor mat manufacturing",
-            "Rubber toy manufacturing"
+            "tire manufactur",
+            "rubber hose and belt manufactur",
+            "rubber gasket and pack manufactur",
+            "rubber seal manufactur",
+            "rubber floor mat manufactur",
+            "rubber toy manufactur"
         ]
     },
     "3271": {
-        "Name": "Clay Product and Refractory Manufacturing:**",
+        "Name": "clay product and refractori manufactur ",
         "Description": [
-            "Brick manufacturing",
-            "Clay pipe manufacturing",
-            "Ceramic tile manufacturing",
-            "Refractory product manufacturing",
-            "Stoneware manufacturing",
-            "Clay pottery manufacturing"
+            "brick manufactur",
+            "clay pipe manufactur",
+            "ceram tile manufactur",
+            "refractori product manufactur",
+            "stonewar manufactur",
+            "clay potteri manufactur"
         ]
     },
     "3272": {
-        "Name": "Glass and Glass Product Manufacturing:**",
+        "Name": "glass and glass product manufactur ",
         "Description": [
-            "Flat glass manufacturing",
-            "Glass container manufacturing",
-            "Glassware manufacturing",
-            "Fiberglass insulation manufacturing",
-            "Glass mirror manufacturing",
-            "Glass block manufacturing"
+            "flat glass manufactur",
+            "glass contain manufactur",
+            "glasswar manufactur",
+            "fiberglass insul manufactur",
+            "glass mirror manufactur",
+            "glass block manufactur"
         ]
     },
     "3273": {
-        "Name": "Cement and Concrete Product Manufacturing:**",
+        "Name": "cement and concret product manufactur ",
         "Description": [
-            "Cement manufacturing",
-            "Ready-mix concrete manufacturing",
-            "Concrete pipe manufacturing",
-            "Concrete block manufacturing",
-            "Concrete brick manufacturing",
-            "Concrete product prefabrication services"
+            "cement manufactur",
+            "ready-mix concret manufactur",
+            "concret pipe manufactur",
+            "concret block manufactur",
+            "concret brick manufactur",
+            "concret product prefabr servic"
         ]
     },
     "3274": {
-        "Name": "Lime and Gypsum Product Manufacturing:**",
+        "Name": "lime and gypsum product manufactur ",
         "Description": [
-            "Lime manufacturing",
-            "Gypsum product manufacturing",
-            "Plaster product manufacturing",
-            "Wallboard manufacturing",
-            "Gypsum board manufacturing",
-            "Ceiling tile manufacturing"
+            "lime manufactur",
+            "gypsum product manufactur",
+            "plaster product manufactur",
+            "wallboard manufactur",
+            "gypsum board manufactur",
+            "ceil tile manufactur"
         ]
     },
     "3279": {
-        "Name": "Other Nonmetallic Mineral Product Manufacturing:**",
+        "Name": "other nonmetal miner product manufactur ",
         "Description": [
-            "Abrasive product manufacturing",
-            "Mineral wool manufacturing",
-            "Carbon black manufacturing",
-            "Artificial stone product manufacturing",
-            "Cut stone and stone product manufacturing",
-            "Ground or treated mineral and earth manufacturing"
+            "abras product manufactur",
+            "miner wool manufactur",
+            "carbon black manufactur",
+            "artifici stone product manufactur",
+            "cut stone and stone product manufactur",
+            "ground or treat miner and earth manufactur"
         ]
     },
     "4231": {
-        "Name": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers:**",
+        "Name": "motor vehicl and motor vehicl part and suppli merchant wholesal ",
         "Description": [
-            "Wholesale distribution of automobiles",
-            "Wholesale distribution of trucks",
-            "Wholesale distribution of motorcycles",
-            "Wholesale distribution of automotive parts",
-            "Wholesale distribution of tires",
-            "Wholesale distribution of batteries",
-            "Wholesale distribution of lubricants",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of automobil",
+            "wholesal distribut of truck",
+            "wholesal distribut of motorcycl",
+            "wholesal distribut of automot part",
+            "wholesal distribut of tire",
+            "wholesal distribut of batteri",
+            "wholesal distribut of lubric",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4232": {
-        "Name": "Furniture and Home Furnishing Merchant Wholesalers:**",
+        "Name": "furnitur and home furnish merchant wholesal ",
         "Description": [
-            "Wholesale distribution of furniture",
-            "Wholesale distribution of home furnishings",
-            "Wholesale distribution of mattresses",
-            "Wholesale distribution of blinds and shades",
-            "Wholesale distribution of rugs and carpets",
-            "Wholesale distribution of decorative accessories",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of furnitur",
+            "wholesal distribut of home furnish",
+            "wholesal distribut of mattress",
+            "wholesal distribut of blind and shade",
+            "wholesal distribut of rug and carpet",
+            "wholesal distribut of decor accessori",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4233": {
-        "Name": "Lumber and Other Construction Materials Merchant Wholesalers:**",
+        "Name": "lumber and other construct materi merchant wholesal ",
         "Description": [
-            "Wholesale distribution of lumber",
-            "Wholesale distribution of plywood",
-            "Wholesale distribution of building materials",
-            "Wholesale distribution of construction equipment",
-            "Wholesale distribution of roofing materials",
-            "Wholesale distribution of insulation materials",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of lumber",
+            "wholesal distribut of plywood",
+            "wholesal distribut of build materi",
+            "wholesal distribut of construct equip",
+            "wholesal distribut of roof materi",
+            "wholesal distribut of insul materi",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4234": {
-        "Name": "Professional and Commercial Equipment and Supplies Merchant Wholesalers:**",
+        "Name": "profession and commerci equip and suppli merchant wholesal ",
         "Description": [
-            "Wholesale distribution of office supplies",
-            "Wholesale distribution of office equipment",
-            "Wholesale distribution of computer hardware",
-            "Wholesale distribution of software",
-            "Wholesale distribution of commercial printing equipment",
-            "Wholesale distribution of laboratory equipment",
-            "Wholesale distribution of medical equipment",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of offic suppli",
+            "wholesal distribut of offic equip",
+            "wholesal distribut of comput hardwar",
+            "wholesal distribut of softwar",
+            "wholesal distribut of commerci print equip",
+            "wholesal distribut of laboratori equip",
+            "wholesal distribut of medic equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4235": {
-        "Name": "Metal and Mineral (except Petroleum) Merchant Wholesalers:**",
+        "Name": "metal and miner ( except petroleum ) merchant wholesal ",
         "Description": [
-            "Wholesale distribution of metal products",
-            "Wholesale distribution of steel",
-            "Wholesale distribution of aluminum",
-            "Wholesale distribution of copper",
-            "Wholesale distribution of minerals",
-            "Wholesale distribution of ores",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of metal product",
+            "wholesal distribut of steel",
+            "wholesal distribut of aluminum",
+            "wholesal distribut of copper",
+            "wholesal distribut of miner",
+            "wholesal distribut of ore",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4236": {
-        "Name": "Electrical and Electronic Goods Merchant Wholesalers:**",
+        "Name": "electr and electron good merchant wholesal ",
         "Description": [
-            "Wholesale distribution of electrical equipment",
-            "Wholesale distribution of electronic components",
-            "Wholesale distribution of appliances",
-            "Wholesale distribution of lighting fixtures",
-            "Wholesale distribution of telecommunications equipment",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of electr equip",
+            "wholesal distribut of electron compon",
+            "wholesal distribut of applianc",
+            "wholesal distribut of light fixtur",
+            "wholesal distribut of telecommun equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4237": {
-        "Name": "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers:**",
+        "Name": "hardwar , and plumb and heat equip and suppli merchant wholesal ",
         "Description": [
-            "Wholesale distribution of hardware",
-            "Wholesale distribution of plumbing supplies",
-            "Wholesale distribution of heating equipment",
-            "Wholesale distribution of air conditioning equipment",
-            "Wholesale distribution of refrigeration equipment",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of hardwar",
+            "wholesal distribut of plumb suppli",
+            "wholesal distribut of heat equip",
+            "wholesal distribut of air condit equip",
+            "wholesal distribut of refriger equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4238": {
-        "Name": "Machinery, Equipment, and Supplies Merchant Wholesalers:**",
+        "Name": "machineri , equip , and suppli merchant wholesal ",
         "Description": [
-            "Wholesale distribution of machinery",
-            "Wholesale distribution of industrial equipment",
-            "Wholesale distribution of agricultural equipment",
-            "Wholesale distribution of construction machinery",
-            "Wholesale distribution of materials handling equipment",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of machineri",
+            "wholesal distribut of industri equip",
+            "wholesal distribut of agricultur equip",
+            "wholesal distribut of construct machineri",
+            "wholesal distribut of materi handl equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4239": {
-        "Name": "Miscellaneous Durable Goods Merchant Wholesalers:**",
+        "Name": "miscellan durabl good merchant wholesal ",
         "Description": [
-            "Wholesale distribution of sporting goods",
-            "Wholesale distribution of toys",
-            "Wholesale distribution of games",
-            "Wholesale distribution of luggage",
-            "Wholesale distribution of musical instruments",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of sport good",
+            "wholesal distribut of toy",
+            "wholesal distribut of game",
+            "wholesal distribut of luggag",
+            "wholesal distribut of music instrument",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "4241": {
-        "Name": "Paper and Paper Product Merchant Wholesalers:**",
+        "Name": "paper and paper product merchant wholesal ",
         "Description": [
-            "Wholesale distribution of paper",
-            "Wholesale distribution of envelopes",
-            "Wholesale distribution of stationery",
-            "Wholesale distribution of packaging materials",
-            "Wholesale distribution of paper products",
-            "Inventory management",
-            "Logistics coordination",
-            "Customer service"
+            "wholesal distribut of paper",
+            "wholesal distribut of envelop",
+            "wholesal distribut of stationeri",
+            "wholesal distribut of packag materi",
+            "wholesal distribut of paper product",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
         ]
     },
     "5411": {
-        "Name": "Legal Services:**",
+        "Name": "legal servic ",
         "Description": [
-            "Legal consultation",
-            "Legal representation",
-            "Contract drafting and review",
-            "Litigation support",
-            "Intellectual property services",
-            "Legal research",
-            "Regulatory compliance",
-            "Corporate governance",
-            "Estate planning",
-            "Alternative dispute resolution"
+            "legal consult",
+            "legal represent",
+            "contract draft and review",
+            "litig support",
+            "intellectu properti servic",
+            "legal research",
+            "regulatori complianc",
+            "corpor govern",
+            "estat plan",
+            "altern disput resolut"
         ]
     },
     "5412": {
-        "Name": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services:**",
+        "Name": "account , tax prepar , bookkeep , and payrol servic ",
         "Description": [
-            "Accounting services",
-            "Tax preparation and planning",
-            "Financial statement preparation",
-            "Bookkeeping and recordkeeping",
-            "Payroll processing",
-            "Auditing services",
-            "Budgeting and forecasting",
-            "Financial analysis",
-            "Tax compliance",
-            "IRS representation"
+            "account servic",
+            "tax prepar and plan",
+            "financi statement prepar",
+            "bookkeep and recordkeep",
+            "payrol process",
+            "audit servic",
+            "budget and forecast",
+            "financi analysi",
+            "tax complianc",
+            "ir represent"
         ]
     },
     "5413": {
-        "Name": "Architectural, Engineering, and Related Services:**",
+        "Name": "architectur , engin , and relat servic ",
         "Description": [
-            "Architectural design",
-            "Structural engineering",
-            "Civil engineering",
-            "Mechanical engineering",
-            "Electrical engineering",
-            "Environmental consulting",
-            "Urban planning",
-            "Land surveying",
-            "Building inspection",
-            "Project management"
+            "architectur design",
+            "structur engin",
+            "civil engin",
+            "mechan engin",
+            "electr engin",
+            "environment consult",
+            "urban plan",
+            "land survey",
+            "build inspect",
+            "project manag"
         ]
     },
     "5414": {
-        "Name": "Specialized Design Services:**",
+        "Name": "special design servic ",
         "Description": [
-            "Graphic design",
-            "Industrial design",
-            "Interior design",
-            "Fashion design",
-            "Web design",
-            "Multimedia design",
-            "Packaging design",
-            "Exhibition design",
-            "User experience (UX) design",
-            "Branding and identity design"
+            "graphic design",
+            "industri design",
+            "interior design",
+            "fashion design",
+            "web design",
+            "multimedia design",
+            "packag design",
+            "exhibit design",
+            "user experi ( ux ) design",
+            "brand and ident design"
         ]
     },
     "5415": {
-        "Name": "Computer Systems Design and Related Services:**",
+        "Name": "comput system design and relat servic ",
         "Description": [
-            "Systems analysis",
-            "Software development",
-            "Network design and administration",
-            "Database development and management",
-            "Web development",
-            "IT consulting",
-            "Cybersecurity services",
-            "Cloud computing solutions",
-            "Mobile app development",
-            "IT project management"
+            "system analysi",
+            "softwar develop",
+            "network design and administr",
+            "databas develop and manag",
+            "web develop",
+            "it consult",
+            "cybersecur servic",
+            "cloud comput solut",
+            "mobil app develop",
+            "it project manag"
         ]
     },
     "5416": {
-        "Name": "Management, Scientific, and Technical Consulting Services:**",
+        "Name": "manag , scientif , and technic consult servic ",
         "Description": [
-            "Management consulting",
-            "Strategic planning",
-            "Organizational development",
-            "Change management",
-            "Business process improvement",
-            "Market research",
-            "Feasibility studies",
-            "Regulatory compliance consulting",
-            "Technology transfer",
-            "Risk management"
+            "manag consult",
+            "strateg plan",
+            "organiz develop",
+            "chang manag",
+            "busi process improv",
+            "market research",
+            "feasibl studi",
+            "regulatori complianc consult",
+            "technolog transfer",
+            "risk manag"
         ]
     },
     "5417": {
-        "Name": "Scientific Research and Development Services:**",
+        "Name": "scientif research and develop servic ",
         "Description": [
-            "Basic research",
-            "Applied research",
-            "Experimental development",
-            "Biotechnology research",
-            "Pharmaceutical research",
-            "Environmental research",
-            "Aerospace research",
-            "Energy research",
-            "Medical research",
-            "Patent development"
+            "basic research",
+            "appli research",
+            "experiment develop",
+            "biotechnolog research",
+            "pharmaceut research",
+            "environment research",
+            "aerospac research",
+            "energi research",
+            "medic research",
+            "patent develop"
         ]
     },
     "5418": {
-        "Name": "Advertising, Public Relations, and Related Services:**",
+        "Name": "advertis , public relat , and relat servic ",
         "Description": [
-            "Advertising campaign development",
-            "Media planning and buying",
-            "Creative concepting and design",
-            "Digital marketing",
-            "Social media management",
-            "Public relations",
-            "Brand management",
-            "Event planning and promotion",
-            "Market research",
-            "Reputation management"
+            "advertis campaign develop",
+            "media plan and buy",
+            "creativ concept and design",
+            "digit market",
+            "social media manag",
+            "public relat",
+            "brand manag",
+            "event plan and promot",
+            "market research",
+            "reput manag"
         ]
     },
     "5419": {
-        "Name": "Other Professional, Scientific, and Technical Services:**",
+        "Name": "other profession , scientif , and technic servic ",
         "Description": [
-            "Translation and interpretation services",
-            "Environmental consulting",
-            "Geotechnical engineering",
-            "Forensic accounting",
-            "Actuarial services",
-            "Technical writing",
-            "Patent and trademark services",
-            "Veterinary services",
-            "Landscape architecture",
-            "Photography and videography",
+            "translat and interpret servic",
+            "environment consult",
+            "geotechn engin",
+            "forens account",
+            "actuari servic",
+            "technic write",
+            "patent and trademark servic",
+            "veterinari servic",
+            "landscap architectur",
+            "photographi and videographi",
             ""
         ]
     }
