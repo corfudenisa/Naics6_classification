@@ -1,0 +1,472 @@
+
+**3211 - Sawmills and Wood Preservation:**
+- Lumber production
+- Timber cutting
+- Wood preservation
+- Wood chips production
+- Wood shavings production
+- Log storage
+
+**3212 - Veneer, Plywood, and Engineered Wood Product Manufacturing:**
+- Veneer production
+- Plywood manufacturing
+- Particleboard production
+- Oriented strand board (OSB) manufacturing
+- Fiberboard manufacturing
+- Engineered wood products manufacturing
+
+**3219 - Other Wood Product Manufacturing:**
+- Wood pallets and skids manufacturing
+- Wooden containers manufacturing
+- Wood kitchenware manufacturing
+- Wood cabinets and countertops manufacturing
+- Wooden furniture manufacturing
+- Wood trusses manufacturing
+- Wooden reels and spools manufacturing
+
+**3221 - Pulp, Paper, and Paperboard Mills:**
+- Pulp production
+- Paper manufacturing
+- Paperboard manufacturing
+- Paper bag manufacturing
+- Paper box manufacturing
+- Paper tube manufacturing
+- Paper napkin manufacturing
+
+**3222 - Converted Paper Product Manufacturing:**
+- Paper bag converting
+- Paper box converting
+- Stationery product manufacturing
+- Envelope manufacturing
+- Paper bag and coated and treated paper manufacturing
+- Paperboard container manufacturing
+
+**3231 - Printing and Related Support Activities:**
+- Commercial printing
+- Digital printing
+- Screen printing
+- Prepress services
+- Bookbinding
+- Typesetting
+- Printing support services
+
+**3241 - Petroleum and Coal Products Manufacturing:**
+- Petroleum refining
+- Asphalt paving mixture manufacturing
+- Asphalt shingle and coating materials manufacturing
+- Petroleum lubricating oil and grease manufacturing
+- Petroleum wax manufacturing
+- Coal tar distillation
+
+**3251 - Basic Chemical Manufacturing:**
+- Petrochemical manufacturing
+- Industrial gas manufacturing
+- Synthetic dye and pigment manufacturing
+- Alkalies and chlorine manufacturing
+- Synthetic rubber manufacturing
+- Fertilizer manufacturing
+
+**3252 - Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing:**
+- Plastic material manufacturing
+- Synthetic rubber manufacturing
+- Artificial fibers and filaments manufacturing
+- Cellulosic plastics manufacturing
+- Melamine resin manufacturing
+- Urea-formaldehyde resin manufacturing
+
+**3253 - Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing:**
+- Pesticide manufacturing
+- Insecticide manufacturing
+- Herbicide manufacturing
+- Fertilizer manufacturing
+- Soil conditioner manufacturing
+- Agricultural chemical adjuvant manufacturing
+
+**3254 - Pharmaceutical and Medicine Manufacturing:**
+- Basic pharmaceutical manufacturing
+- Medicinal and botanical manufacturing
+- Pharmaceutical preparation manufacturing
+- Vaccine manufacturing
+- Diagnostic substance manufacturing
+- Biopharmaceutical manufacturing
+
+**3255 - Paint, Coating, and Adhesive Manufacturing:**
+- Paint manufacturing
+- Varnish manufacturing
+- Enamel manufacturing
+- Lacquer manufacturing
+- Stain manufacturing
+- Adhesive manufacturing
+
+**3256 - Soap, Cleaning Compound, and Toilet Preparation Manufacturing:**
+- Soap manufacturing
+- Detergent manufacturing
+- Cleaning compound manufacturing
+- Polishing preparations manufacturing
+- Perfume manufacturing
+- Cosmetics manufacturing
+
+**3259 - Other Chemical Product and Preparation Manufacturing:**
+- Explosives manufacturing
+- Photographic film and chemical manufacturing
+- Chemical preparations manufacturing
+- Gelatin manufacturing
+- Synthetic organic coloring matter manufacturing
+- Matches manufacturing
+
+**3261 - Plastics Product Manufacturing:**
+- Plastic bottle manufacturing
+- Plastic pipe manufacturing
+- Plastic packaging materials manufacturing
+- Plastic plumbing fixture manufacturing
+- Plastic houseware manufacturing
+- Plastic furniture manufacturing
+
+**3262 - Rubber Product Manufacturing:**
+- Tire manufacturing
+- Rubber hose and belting manufacturing
+- Rubber gasket and packing manufacturing
+- Rubber seal manufacturing
+- Rubber floor mat manufacturing
+- Rubber toy manufacturing
+
+**3271 - Clay Product and Refractory Manufacturing:**
+- Brick manufacturing
+- Clay pipe manufacturing
+- Ceramic tile manufacturing
+- Refractory product manufacturing
+- Stoneware manufacturing
+- Clay pottery manufacturing
+
+**3272 - Glass and Glass Product Manufacturing:**
+- Flat glass manufacturing
+- Glass container manufacturing
+- Glassware manufacturing
+- Fiberglass insulation manufacturing
+- Glass mirror manufacturing
+- Glass block manufacturing
+
+**3273 - Cement and Concrete Product Manufacturing:**
+- Cement manufacturing
+- Ready-mix concrete manufacturing
+- Concrete pipe manufacturing
+- Concrete block manufacturing
+- Concrete brick manufacturing
+- Concrete product prefabrication services
+
+**3274 - Lime and Gypsum Product Manufacturing:**
+- Lime manufacturing
+- Gypsum product manufacturing
+- Plaster product manufacturing
+- Wallboard manufacturing
+- Gypsum board manufacturing
+- Ceiling tile manufacturing
+
+**3279 - Other Nonmetallic Mineral Product Manufacturing:**
+- Abrasive product manufacturing
+- Mineral wool manufacturing
+- Carbon black manufacturing
+- Artificial stone product manufacturing
+- Cut stone and stone product manufacturing
+- Ground or treated mineral and earth manufacturing
+
+**4231 - Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers:**
+- Wholesale distribution of automobiles
+- Wholesale distribution of trucks
+- Wholesale distribution of motorcycles
+- Wholesale distribution of automotive parts
+- Wholesale distribution of tires
+- Wholesale distribution of batteries
+- Wholesale distribution of lubricants
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4232 - Furniture and Home Furnishing Merchant Wholesalers:**
+- Wholesale distribution of furniture
+- Wholesale distribution of home furnishings
+- Wholesale distribution of mattresses
+- Wholesale distribution of blinds and shades
+- Wholesale distribution of rugs and carpets
+- Wholesale distribution of decorative accessories
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4233 - Lumber and Other Construction Materials Merchant Wholesalers:**
+- Wholesale distribution of lumber
+- Wholesale distribution of plywood
+- Wholesale distribution of building materials
+- Wholesale distribution of construction equipment
+- Wholesale distribution of roofing materials
+- Wholesale distribution of insulation materials
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4234 - Professional and Commercial Equipment and Supplies Merchant Wholesalers:**
+- Wholesale distribution of office supplies
+- Wholesale distribution of office equipment
+- Wholesale distribution of computer hardware
+- Wholesale distribution of software
+- Wholesale distribution of commercial printing equipment
+- Wholesale distribution of laboratory equipment
+- Wholesale distribution of medical equipment
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4235 - Metal and Mineral (except Petroleum) Merchant Wholesalers:**
+- Wholesale distribution of metal products
+- Wholesale distribution of steel
+- Wholesale distribution of aluminum
+- Wholesale distribution of copper
+- Wholesale distribution of minerals
+- Wholesale distribution of ores
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4236 - Electrical and Electronic Goods Merchant Wholesalers:**
+- Wholesale distribution of electrical equipment
+- Wholesale distribution of electronic components
+- Wholesale distribution of appliances
+- Wholesale distribution of lighting fixtures
+- Wholesale distribution of telecommunications equipment
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4237 - Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers:**
+- Wholesale distribution of hardware
+- Wholesale distribution of plumbing supplies
+- Wholesale distribution of heating equipment
+- Wholesale distribution of air conditioning equipment
+- Wholesale distribution of refrigeration equipment
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4238 - Machinery, Equipment, and Supplies Merchant Wholesalers:**
+- Wholesale distribution of machinery
+- Wholesale distribution of industrial equipment
+- Wholesale distribution of agricultural equipment
+- Wholesale distribution of construction machinery
+- Wholesale distribution of materials handling equipment
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4239 - Miscellaneous Durable Goods Merchant Wholesalers:**
+- Wholesale distribution of sporting goods
+- Wholesale distribution of toys
+- Wholesale distribution of games
+- Wholesale distribution of luggage
+- Wholesale distribution of musical instruments
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4241 - Paper and Paper Product Merchant Wholesalers:**
+- Wholesale distribution of paper
+- Wholesale distribution of envelopes
+- Wholesale distribution of stationery
+- Wholesale distribution of packaging materials
+- Wholesale distribution of paper products
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4242 - Drugs and Druggists' Sundries Merchant Wholesalers:**
+- Wholesale distribution of pharmaceuticals
+- Wholesale distribution of medical supplies
+- Wholesale distribution of vitamins
+- Wholesale distribution of first aid supplies
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4243 - Apparel, Piece Goods, and Notions Merchant Wholesalers:**
+- Wholesale distribution of clothing
+- Wholesale distribution of fabrics
+- Wholesale distribution of sewing supplies
+- Wholesale distribution of buttons and zippers
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4244 - Grocery and Related Product Merchant Wholesalers:**
+- Wholesale distribution of food products
+- Wholesale distribution of beverages
+- Wholesale distribution of snacks
+- Wholesale distribution of canned goods
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4245 - Farm Product Raw Material Merchant Wholesalers:**
+- Wholesale distribution of crops
+- Wholesale distribution of livestock
+- Wholesale distribution of agricultural inputs
+- Wholesale distribution of seeds
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4246 - Chemical and Allied Products Merchant Wholesalers:**
+- Wholesale distribution of chemicals
+- Wholesale distribution of industrial gases
+- Wholesale distribution of fertilizers
+- Wholesale distribution of pesticides
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4247 - Petroleum and Petroleum Products Merchant Wholesalers:**
+- Wholesale distribution of crude oil
+- Wholesale distribution of gasoline
+- Wholesale distribution of diesel
+- Wholesale distribution of lubricants
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4248 - Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers:**
+- Wholesale distribution of beer
+- Wholesale distribution of wine
+- Wholesale distribution of spirits
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4249 - Miscellaneous Nondurable Goods Merchant Wholesalers:**
+- Wholesale distribution of tobacco products
+- Wholesale distribution of candles
+- Wholesale distribution of fireworks
+- Wholesale distribution of personal care products
+- Inventory management
+- Logistics coordination
+- Customer service
+
+**4251 - Wholesale Electronic Markets and Agents and Brokers:**
+- Online wholesale platforms
+- Electronic marketplaces
+- E-commerce platforms
+- Wholesale brokerage services
+- Facilitating transactions between buyers and sellers
+- Market research
+- Sales representation
+- Customer relationship management
+- Order processing
+- Logistics coordination
+- Trade financing
+
+**5411 - Legal Services:**
+- Legal consultation
+- Legal representation
+- Contract drafting and review
+- Litigation support
+- Intellectual property services
+- Legal research
+- Regulatory compliance
+- Corporate governance
+- Estate planning
+- Alternative dispute resolution
+
+
+
+**5412 - Accounting, Tax Preparation, Bookkeeping, and Payroll Services:**
+- Accounting services
+- Tax preparation and planning
+- Financial statement preparation
+- Bookkeeping and recordkeeping
+- Payroll processing
+- Auditing services
+- Budgeting and forecasting
+- Financial analysis
+- Tax compliance
+- IRS representation
+
+**5413 - Architectural, Engineering, and Related Services:**
+- Architectural design
+- Structural engineering
+- Civil engineering
+- Mechanical engineering
+- Electrical engineering
+- Environmental consulting
+- Urban planning
+- Land surveying
+- Building inspection
+- Project management
+
+**5414 - Specialized Design Services:**
+- Graphic design
+- Industrial design
+- Interior design
+- Fashion design
+- Web design
+- Multimedia design
+- Packaging design
+- Exhibition design
+- User experience (UX) design
+- Branding and identity design
+
+**5415 - Computer Systems Design and Related Services:**
+- Systems analysis
+- Software development
+- Network design and administration
+- Database development and management
+- Web development
+- IT consulting
+- Cybersecurity services
+- Cloud computing solutions
+- Mobile app development
+- IT project management
+
+**5416 - Management, Scientific, and Technical Consulting Services:**
+- Management consulting
+- Strategic planning
+- Organizational development
+- Change management
+- Business process improvement
+- Market research
+- Feasibility studies
+- Regulatory compliance consulting
+- Technology transfer
+- Risk management
+
+**5417 - Scientific Research and Development Services:**
+- Basic research
+- Applied research
+- Experimental development
+- Biotechnology research
+- Pharmaceutical research
+- Environmental research
+- Aerospace research
+- Energy research
+- Medical research
+- Patent development
+
+**5418 - Advertising, Public Relations, and Related Services:**
+- Advertising campaign development
+- Media planning and buying
+- Creative concepting and design
+- Digital marketing
+- Social media management
+- Public relations
+- Brand management
+- Event planning and promotion
+- Market research
+- Reputation management
+
+**5419 - Other Professional, Scientific, and Technical Services:**
+- Translation and interpretation services
+- Environmental consulting
+- Geotechnical engineering
+- Forensic accounting
+- Actuarial services
+- Technical writing
+- Patent and trademark services
+- Veterinary services
+- Landscape architecture
+- Photography and videography
