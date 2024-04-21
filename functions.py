@@ -1,4 +1,5 @@
 import nltk
+import os
 import pandas as pd
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -7,8 +8,20 @@ from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
 from nltk.corpus import wordnet as wn
 from nltk.metrics import jaccard_distance
+import json
 
+with open("naics6.json", "r") as json_file_2:
+    data_dict_key = json.load(json_file_2)
+import random
 
+random.seed(42)  
+
+def clear_console():
+    # Clear console screen
+    if os.name == 'nt':  # For Windows
+        _ = os.system('cls')
+    else:  # For Linux and macOS
+        _ = os.system('clear')
 
 def list_to_dict(list):
     dict={}
@@ -65,4 +78,16 @@ def importancecateg(text,input):
     if importan == 0 :
         importan = 0.5
     return importan
-
+def RecuresionOfMediumErorr(input):
+        while input == 0:
+            input//=10
+        keys_with_prefix = [key for key in data_dict_key.keys() if key.startswith(str(input))]
+        random_number = random.randint(1, 100)
+        try:
+            value = random_number % len(keys_with_prefix)
+        except:
+            while input <99999:
+                input*=10
+            value=input
+        return value
+    

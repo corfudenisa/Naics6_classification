@@ -20,7 +20,7 @@ try:
         stemmed_descriptions = [stem_text(desc) for desc in value["Description"]]
         data_dict[key]["Description"] = stemmed_descriptions
 
-    with open("naics6_stemmed.json", "w") as json_file:
+    with open("naics6.json", "w") as json_file:
         json.dump(data_dict, json_file, indent=4)
         print("Data written successfully.")
         
