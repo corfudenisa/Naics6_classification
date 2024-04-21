@@ -34,7 +34,6 @@ for section in sections:
         for XX in info['Description']:
             listXX.append(preprocess_text(XX))
         info['Description']=listXX
-        print(code,info,end="\n\n\n")
         #prcdata=preprocess_text(info)
         data_dict[code] = info
 

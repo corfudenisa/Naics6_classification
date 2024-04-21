@@ -4,7 +4,7 @@ import json
 with open("naics6.json", "r") as json_file:
     data_dict = json.load(json_file)
 for keys in data_dict:
-    print(data_dict[keys]["Name"])
+    
 
     data_dict[keys]["Name"] = pt(data_dict[keys]["Name"])
     listnew =[]

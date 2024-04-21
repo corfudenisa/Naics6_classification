@@ -1,11 +1,13 @@
 import nltk
+import pandas as pd
 nltk.download('punkt')
 nltk.download('stopwords')
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
+from nltk.stem import LancasterStemmer
 from nltk.corpus import wordnet as wn
 from nltk.metrics import jaccard_distance
+
 
 
 def list_to_dict(list):
@@ -38,16 +40,29 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 
 def preprocess_text(text):
+    text=str(text)
     # Tokenize the text into words
     tokens = word_tokenize(text)
     
-    # Initialize the Porter Stemmer
-    ps = PorterStemmer()
+    # Initialize the Lancaster Stemmer
+    ls = LancasterStemmer()
     
     # Stem each word and create a list of stemmed tokens
-    stemmed_tokens = [ps.stem(token) for token in tokens]
+    stemmed_tokens = [ls.stem(token) for token in tokens]
     
     # Join the stemmed tokens back into a single string
     preprocessed_text = ' '.join(stemmed_tokens)
     
     return preprocessed_text
+def importancecateg(text,input):
+    short_description = input["Short_Description"] if pd.notna(input["Short_Description"]) else ""
+    long_description = input["Long_Description"] if pd.notna(input["Long_Description"]) else ""
+
+    valuexx = "".join([short_description, long_description])
+    information = preprocess_text(valuexx)
+
+    importan = information.count(text)
+    if importan == 0 :
+        importan = 0.5
+    return importan
+
