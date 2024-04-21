@@ -4,7 +4,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-from nltk.stem import LancasterStemmer
+from nltk.stem import SnowballStemmer
 from nltk.corpus import wordnet as wn
 from nltk.metrics import jaccard_distance
 
@@ -45,7 +45,7 @@ def preprocess_text(text):
     tokens = word_tokenize(text)
     
     # Initialize the Lancaster Stemmer
-    ls = LancasterStemmer()
+    ls = SnowballStemmer('english')
     
     # Stem each word and create a list of stemmed tokens
     stemmed_tokens = [ls.stem(token) for token in tokens]
